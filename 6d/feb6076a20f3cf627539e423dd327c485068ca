@@ -1,0 +1,14 @@
+types/augmentations.d.ts
+  h_674e29b482f0e5 2,4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "6dfeb6076a20f3cf627539e423dd327c485068ca",
+  "prompts": {},
+  "humans": {
+    "h_674e29b482f0e5": {
+      "author": "Mike Noseworthy"
+    }
+  }
+}
