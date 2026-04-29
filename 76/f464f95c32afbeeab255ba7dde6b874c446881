@@ -1,0 +1,16 @@
+test/types/mongo.test.ts
+  h_674e29b482f0e5 2,11,14
+types/augmentations.d.ts
+  h_674e29b482f0e5 2,4
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "76f464f95c32afbeeab255ba7dde6b874c446881",
+  "prompts": {},
+  "humans": {
+    "h_674e29b482f0e5": {
+      "author": "Mike Noseworthy"
+    }
+  }
+}
